@@ -6,5 +6,6 @@
 1. team leads: please share your team repo with me.  
 
 ---
-Clayton's note: I copied theses instructions directly from the course Bb page
-Blackboard > Assignments > Git/Github
+**note**: These instructions above are copied  from the course Bb page.
+
+**Blackboard > Assignments > Git/Github**
