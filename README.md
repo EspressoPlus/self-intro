@@ -6,9 +6,10 @@
 1. team leads: please share your team repo with me.  
 
 ---
-**note**: The instructions above are copied  from the course Bb page.
+**note**: The instructions above are copied from the course Bb page
 
-**Blackboard > Assignments > Git/Github**
+**Blackboard \> Assignments \> Git/Github**
+
 ---
 Links to each team member's profile, in their respective branches:
 
