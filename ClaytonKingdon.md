@@ -24,8 +24,8 @@ I also have a little experience (recently and/or long ago) with:
 * IDL
 * Matlab
  
-Here's my <a href="https://www.linkedin.com/in/claytonkingdon/" target="blank">**LinkedIn profile**</a> . I'm not super active there, but feel free to connect.
+Here's my <a href="https://www.linkedin.com/in/claytonkingdon/" target="_blank">**LinkedIn profile**</a> . I'm not super active there, but feel free to connect.
 
-And, if you're curious, here's a list of **[publications](https://tinyurl.com/CK-google-scholar)** that I co-authored.
+And, if you're curious, here's a list of <a href="https://tinyurl.com/CK-google-scholar" target="_blank">**publications**</a> that I co-authored.
 
 On the non-professional side, my wife and I like to hike and bike around south-east Michigan and go canoe camping when we get the chance. I'm a life-long hockey player and fan, and I volunteer at the local **[bike co-op](https://commoncycle.org/)** where I help people learn how to fix their own bikes.
