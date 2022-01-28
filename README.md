@@ -9,3 +9,12 @@
 **note**: The instructions above are copied  from the course Bb page.
 
 **Blackboard > Assignments > Git/Github**
+---
+Links to each team member's profile, in their respective branches:
+
+[Clayton Kingdon](https://github.com/EspressoPlus/self-intro/blob/ClaytonKingdon/ClaytonKingdon.md)
+[Gabe]()
+[Annabelle]()
+[Henry]()
+[Nimco]()
+[David]()
