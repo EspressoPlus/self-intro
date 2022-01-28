@@ -13,7 +13,7 @@
 ---
 Links to each team member's profile, in their respective branches:
 
-[Clayton Kingdon](https://github.com/EspressoPlus/self-intro/blob/ClaytonKingdon/ClaytonKingdon.md)
+[Clayton](https://github.com/EspressoPlus/self-intro/blob/ClaytonKingdon/ClaytonKingdon.md)
 
 [Gabe]()
 
