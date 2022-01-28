@@ -24,7 +24,7 @@ I also have a little experience (recently and/or long ago) with:
 * IDL
 * Matlab
  
-Here's my **[LinkedIn profile](https://www.linkedin.com/in/claytonkingdon/)**. I'm not super active there, but feel free to connect.
+Here's my <a href="https://www.linkedin.com/in/claytonkingdon/" target="blank">**LinkedIn profile**</a> . I'm not super active there, but feel free to connect.
 
 And, if you're curious, here's a list of **[publications](https://tinyurl.com/CK-google-scholar)** that I co-authored.
 
