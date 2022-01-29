@@ -13,16 +13,16 @@
 ---
 Links to each team member's profile, in their respective branches:
 
-[Clayton](https://github.com/EspressoPlus/self-intro/blob/ClaytonKingdon/ClaytonKingdon.md)
-
-[Gabe]()
-
 [Annabelle]()
 
-[Henry]()
+[Chris]()
 
-[Nimco]()
+[Clayton](https://github.com/EspressoPlus/self-intro/blob/ClaytonKingdon/ClaytonKingdon.md)
 
 [David]()
 
-[Chris]()
+[Gabe]()
+
+[Henry]()
+
+
