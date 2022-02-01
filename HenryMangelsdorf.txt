@@ -1,0 +1,2 @@
+Hello my name is Henry Mangelsdorf and I am currently taking my final semester at Washtenaw Community College.
+During my studies I have used Java, Python, Kotlin for Android Studio, some PHP/JavaScript/CSS/MYSQL, and Bash on Ubuntu.
