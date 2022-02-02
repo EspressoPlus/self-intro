@@ -13,16 +13,18 @@
 ---
 Links to each team member's profile, in their respective branches:
 
-[Annabelle]()
+[Annabelle](https://github.com/EspressoPlus/self-intro/blob/AnnabelleKesterson/Hello.txt)
 
-[Chris]()
+[Asim](https://github.com/EspressoPlus/self-intro/blob/)
+
+[Chris](https://github.com/EspressoPlus/self-intro/blob/ChristopherMartus/ChristopherMartus.txt)
 
 [Clayton](https://github.com/EspressoPlus/self-intro/blob/ClaytonKingdon/ClaytonKingdon.md)
 
-[David]()
+[David](https://github.com/EspressoPlus/self-intro/blob/DavidAger/DavidAger.md)
 
-[Gabe]()
+[Gabe](https://github.com/EspressoPlus/self-intro/blob/)
 
-[Henry]()
+[Henry](https://github.com/EspressoPlus/self-intro/blob/HenryMangelsdorf.txt)
 
 
