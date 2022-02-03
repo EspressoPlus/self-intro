@@ -25,7 +25,7 @@ Links to each team member's profile, in their respective branches:
 
 [David](https://github.com/EspressoPlus/self-intro/blob/DavidAger/DavidAger.md)
 
-[Gabe](https://github.com/EspressoPlus/self-intro/blob/)
+[Gabe](https://github.com/EspressoPlus/self-intro/blob/grwarner-branch/GabeWarner.txt)
 
 [Henry](https://github.com/EspressoPlus/self-intro/blob/HenryMangelsdorf/HenryMangelsdorf.txt)
 
