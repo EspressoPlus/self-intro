@@ -1,0 +1,4 @@
+My name is Darnell. This is my last class before completing my Associates Degree for programming in Java. I 
+currently work for a company called May Mobility. We provide shuttle service via autonomous vehicles. I look 
+through logs to figure out any issues we may have on route. I feel most comfortable with Java programming 
+through Eclipse. I am also comfortable with with CSS and can normally figure things out with HTML.
