@@ -25,6 +25,6 @@ Links to each team member's profile, in their respective branches:
 
 [Gabe](https://github.com/EspressoPlus/self-intro/blob/)
 
-[Henry](https://github.com/EspressoPlus/self-intro/blob/HenryMangelsdorf.txt)
+[Henry](https://github.com/EspressoPlus/self-intro/blob/HenryMangelsdorf/HenryMangelsdorf.txt)
 
 
