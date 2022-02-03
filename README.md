@@ -21,6 +21,8 @@ Links to each team member's profile, in their respective branches:
 
 [Clayton](https://github.com/EspressoPlus/self-intro/blob/ClaytonKingdon/ClaytonKingdon.md)
 
+[Darnell](https://github.com/EspressoPlus/self-intro/blob/DarnellChristian/DarnellChristian.txt)
+
 [David](https://github.com/EspressoPlus/self-intro/blob/DavidAger/DavidAger.md)
 
 [Gabe](https://github.com/EspressoPlus/self-intro/blob/)
