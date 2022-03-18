@@ -46,12 +46,12 @@ VALUES
     (5, "Natasha", "Romanoff", "bwidow@test.com", "Nat21", MD5('redroomsurvivor2'), NULL);
 
 -- -----------------------------------------------------
--- Table `gogobudget`.`Money_Info`
+-- Table `gogobudget`.`Transactions`
 -- Table combines user and ledgers/transactions
 -- -----------------------------------------------------
-DROP TABLE IF EXISTS `gogobudget`.`Money_Info` ;
+DROP TABLE IF EXISTS `gogobudget`.`Transactions` ;
 
-CREATE TABLE IF NOT EXISTS `gogobudget`.`Money_Info` (
+CREATE TABLE IF NOT EXISTS `gogobudget`.`Transactions` (
   `money_id` INT NOT NULL AUTO_INCREMENT,
   `user_id` INT NOT NULL,
   PRIMARY KEY (`money_id`),
@@ -63,7 +63,7 @@ CREATE TABLE IF NOT EXISTS `gogobudget`.`Money_Info` (
     ON UPDATE NO ACTION)
 ENGINE = InnoDB;
 
-INSERT INTO `gogobudget`.`Money_Info`
+INSERT INTO `gogobudget`.`Transactions`
 	(`money_id`, `user_id`)
 VALUES
 	(1, 1),
@@ -78,9 +78,9 @@ VALUES
 -- entry_date = date transaction was input
 -- money_id ties money info to table
 -- -----------------------------------------------------
-DROP TABLE IF EXISTS `gogobudget`.`Transactions` ;
+DROP TABLE IF EXISTS `gogobudget`.`Money_Info` ;
 
-CREATE TABLE IF NOT EXISTS `gogobudget`.`Transactions` (
+CREATE TABLE IF NOT EXISTS `gogobudget`.`Money_Info` (
   `tran_id` INT NOT NULL AUTO_INCREMENT,
   `tran_title` VARCHAR(45) NOT NULL,
   `occurence_type` VARCHAR(15) NOT NULL,
@@ -93,12 +93,12 @@ CREATE TABLE IF NOT EXISTS `gogobudget`.`Transactions` (
   INDEX `money_key_idx` (`money_id` ASC) VISIBLE,
   CONSTRAINT `money_key`
     FOREIGN KEY (`money_id`)
-    REFERENCES `gogobudget`.`Money_Info` (`money_id`)
+    REFERENCES `gogobudget`.`Transactions` (`money_id`)
     ON DELETE NO ACTION
     ON UPDATE NO ACTION)
 ENGINE = InnoDB;
 
-INSERT INTO `gogobudget`.`Transactions`
+INSERT INTO `gogobudget`.`Money_Info`
 	
 VALUES
 	(1, 'Mortgage', 'recurring', 'expense', STR_TO_DATE("2022-04-22", "%Y-%m-%d"), 1345.00, STR_TO_DATE("2022-03-24", "%Y-%m-%d"), 1),
